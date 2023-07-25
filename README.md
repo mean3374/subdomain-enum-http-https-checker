@@ -1,5 +1,5 @@
 # subdomain-enum-http-https-checker
-The "Subdomain Enumeration HTTP/HTTPS Status Checker" is a Python script designed to enumerate subdomains for a given domain and verify their HTTP/HTTPS status. It serves as a valuable tool for penetration testers, automating tasks during the information-gathering phase and identifying subdomains that are accessible via HTTP, HTTPS, both, or unreachable.
+The "Subdomain Enumeration HTTP/HTTPS Status Checker" is a Python script designed to enumerate subdomains for a given domain and verify their HTTP/HTTPS connection. It serves as a valuable tool for penetration testers, automating tasks during the information-gathering phase and identifying subdomains that are accessible via HTTP, HTTPS, both, or unreachable.
 
 This project uses the `requests` library to make HTTP requests, `tqdm` to display progress bars, and `tabulate` to format the output into tables.
 
