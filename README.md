@@ -1,7 +1,7 @@
 # subdomain-enum-http-https-checker
-The "Subdomain enumeration HTTP/HTTPS Status Checker" is a Python script designed to check the HTTP/HTTPS status of subdomains for a given domain. It helps users identify which subdomains are accessible via HTTP, HTTPS, both, or not reachable.
+The "Subdomain Enumeration HTTP/HTTPS Status Checker" is a Python script designed to enumerate subdomain for a given domain and also check the HTTP/HTTPS status of subdomains. It helps penetration tester to automate task for information gathering phase and identify which subdomains are accessible via HTTP, HTTPS, both, or not reachable.
 
-This Python script checks the HTTP/HTTPS status of subdomains of a given domain. It uses the `requests` library to make HTTP requests, `tqdm` to display progress bars, and `tabulate` to format the output into tables.
+This project uses the `requests` library to make HTTP requests, `tqdm` to display progress bars, and `tabulate` to format the output into tables.
 
 ## Requirements
 
@@ -10,10 +10,10 @@ This Python script checks the HTTP/HTTPS status of subdomains of a given domain.
 
 ## Usage
 
-1. Clone the repository or download the script.
+1. Clone the repository or download the script include assetfinder.exe file.
 2. Install the required packages using `pip`:
-3. Run the script:
-4. Enter the domain name for which you want to check the subdomains' HTTP/HTTPS status.
+3. Run the script using `python subdomain-enum-http-https-checker.py`:
+4. Enter the domain name for which you want to enum and check HTTP/HTTPS status. For example, `example.com`
 
 ## Output
 
