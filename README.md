@@ -11,8 +11,8 @@ This project uses the `requests` library to make HTTP requests, `tqdm` to displa
 ## Usage
 
 1. Clone the repository or download the script include assetfinder.exe file.
-2. Install the required packages using `pip`:
-3. Run the script using `python subdomain-enum-http-https-checker.py`:
+2. Install the required packages using `pip`
+3. Run the script using `python subdomain-enum-http-https-checker.py`
 4. Enter the domain name for which you want to enum and check HTTP/HTTPS status. For example, `example.com`
 
 Please see DEMO here: https://youtu.be/y9ZIQDpz3no
