@@ -15,7 +15,7 @@ This project uses the `requests` library to make HTTP requests, `tqdm` to displa
 3. Run the script using `python subdomain-enum-http-https-checker.py`:
 4. Enter the domain name for which you want to enum and check HTTP/HTTPS status. For example, `example.com`
 
-Demo here: https://youtu.be/y9ZIQDpz3no
+Please see DEMO here: https://youtu.be/y9ZIQDpz3no
 
 ## Output
 
