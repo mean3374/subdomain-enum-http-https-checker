@@ -31,7 +31,7 @@ The script will also print a summary at the end, indicating the total number of 
 
 ## Notes
 
-- For Linux users, please make sure that you have already installed the `assetfinder` program. Then, edit some code on line 55 by removing `.exe` from the code. I apologize for any inconvenience caused.
+- For Linux users, please make sure that you have already installed the `assetfinder` program. Then, edit some code on line no.55 by removing `.exe` from the code. I apologize for any inconvenience caused.
 - The `socket` and `subprocess` modules are part of the Python standard library, so they don't need to be installed separately.
 - For Windows users, the script uses `assetfinder.exe` to find subdomains. Make sure you have it in your system's PATH or provide the full path to `assetfinder.exe`.
 
